@@ -1,7 +1,7 @@
 ### Ola sou o Matus Moura
 
-- 🔭 Estou trabalhando em um game ide solo!
-- 🌱 Meus principais estudos são a linguagem Java e Kotlin.
+  -      HOJE TRABALHO EM UM GAME INDE SOLO!
+  -      MINHAS PRINCIPAIS LINGUAGENS SÃO JAVA E KOTLIN
   -      FUTURO ENGENHEIRO DE SOFTWARE
 <div align="center">
   <a href="https://github.com/MatusMoura">
