@@ -1,6 +1,6 @@
 ### Olá sou o Matus Moura, estudante de programação!
 
-  -      HOJE TRABALHO EM UM GAME INDE SOLO!
+  -      HOJE TRABALHO EM UM GAME INDIE SOLO!
   -      MINHAS PRINCIPAIS LINGUAGENS SÃO JAVA E KOTLIN
   -      FUTURO ENGENHEIRO DE SOFTWARE
 <div align="center">
